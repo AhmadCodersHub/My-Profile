@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/mustafahubs"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Self%20Taught%20Programmer;Python%20Tools%20Developer;Web%20Automation%20Expert;3.0%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/AhmadCodersHub"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Programmer;Python%20Tools%20Developer;Web%20Automation%20Expert;1.0%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <div align="center">
