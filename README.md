@@ -9,14 +9,11 @@
 </head>
 <body>
 
-<div align="center">
-    <img height="150" src="https://github.com/AhmadCodersHub/My-Profile/assets/129132958/29da2625-4c68-4397-842a-3c96bb7ece79" alt="Python Programming" />
-</div>
 
 <p align="center">
 
-    <a href="https://github.com/muhammadahmad78613">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation">
+<a href="https://github.com/muhammadahmad78613">
+<img src="https://readme-typing-svg.herokuapp.com/font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation">
     </a>
 </p>
 
@@ -35,12 +32,12 @@
 
 <br>
 
-<a href="https://github.com/muhammadahmad78613">
-    <img align="left" src="https://komarev.com/ghpvc/?username=muhammadahmad78613&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://github.com/AhmadCodersHub">
+    <img align="left" src="https://komarev.com/ghpvc/?username=AhmadCodersHub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
 
-<a href="https://github.com/muhammadahmad78613">
-    <img align="right" src="https://komarev.com/ghpvc/?username=muhammadahmad78613&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+<a href="https://github.com/AhmadCodersHub">
+    <img align="right" src="https://komarev.com/ghpvc/?username=AhmadCodersHub&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </a>
 
 <br>
@@ -153,28 +150,28 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/muhammadahmad78613">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmad78613&theme=radical&border=7F3FBF&background=0D1117" alt="Muhammad Ahmad GitHub streak"/>
+    <a href="https://github.com/AhmadCodersHub">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadCodersHub&theme=radical&border=7F3FBF&background=0D1117" alt="Muhammad Ahmad GitHub streak"/>
     </a>
 </p>
 <br>
 <p align="center">
-    <a href="https://github.com/muhammadahmad78613">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadahmad78613&theme=radical" alt="Muhammad Ahmad GitHub Contribution"/>
+    <a href="https://github.com/AhmadCodersHub">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadCodersHub&theme=radical" alt="Muhammad Ahmad GitHub Contribution"/>
     </a>
 </p>
 <br>
-<a href="https://github.com/muhammadahmad78613">
-    <img alt="Muhammad Ahmad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=muhammadahmad78613&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+<a href="https://github.com/AhmadCodersHub">
+    <img alt="Muhammad Ahmad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AhmadCodersHub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 
-<a href="https://github.com/muhammadahmad78613">
-    <img alt="Muhammad Ahmad Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmad78613&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+<a href="https://github.com/AhmadCodersHub">
+    <img alt="Muhammad Ahmad Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmadCodersHub&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 <br>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadahmad78613&theme=react" alt="Muhammad Ahmad Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadCodersHub&theme=react" alt="Muhammad Ahmad Graph">
 
 </body>
 
