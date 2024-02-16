@@ -10,10 +10,11 @@
 <body>
 
 <div align="center">
-    <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
+    <img height="150" src="https://github.com/AhmadCodersHub/My-Profile/assets/129132958/29da2625-4c68-4397-842a-3c96bb7ece79" alt="Python Programming" />
 </div>
 
 <p align="center">
+
     <a href="https://github.com/muhammadahmad78613">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation">
     </a>
