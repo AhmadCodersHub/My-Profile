@@ -56,10 +56,10 @@
     - 🌱 I’m currently learning **Web Development**<br>
     - 👯 I’m looking to collaborate on **Cloud Native Project**<br>
     - 🤝 I’m looking for help with **Web Scraper**<br>
-    - 👨‍💻 All of my projects are available at [https://github.com/muhammadahmad78613]<br>
+    - 👨‍💻 All of my projects are available at [https://github.com/AhmadCodersHub]<br>
     - 💬 Ask me about **Web Scraping and web automation**<br>
     - 📫 How to reach me **612muhammadahmad@gmail.com**<br>
-    - 📄 Know about my experiences [https://www.fiverr.com/arianaahmad]<br>
+    - 📄 Know about my experiences Fiverr & Upwork<br>
     - ⚡ Fun fact **I can create an automation bot and script for you.**<br>
 </p>
 
